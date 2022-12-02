@@ -11,10 +11,10 @@
 library(tidyverse)
 library(ggridges)
 #player id and official player position data
-nba_id_data = read_csv('https://raw.githubusercontent.com/huagong2020/MITConferencePaper/main/playerId/nba_id_data.csv')
+nba_id_data = read_csv('https://raw.githubusercontent.com/huagong2020/MITConferencePaper/main/data/playerId/nba_id_data.csv')
 
 # clustered player position data
-pivot_data = read_csv('https://raw.githubusercontent.com/huagong2020/MITConferencePaper/main/playerId/pivot_data.csv')
+pivot_data = read_csv('https://raw.githubusercontent.com/huagong2020/MITConferencePaper/main/data/playerId/pivot_data.csv')
 
 
 # set the number of iterations for the Gibbs sampler
