@@ -9,6 +9,7 @@
 # 4. model uses data from 2015-16 to 2021-22 seasons; no 2019-20 data used
 
 library(tidyverse)
+library(ggridges)
 #player id and official player position data
 nba_id_data = read_csv('https://raw.githubusercontent.com/huagong2020/MITConferencePaper/main/playerId/nba_id_data.csv')
 
