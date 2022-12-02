@@ -8,7 +8,7 @@ season data are not used in this study.
 **data/playerId/nba_id_data** contains NBA player ID and position data
 collected from the NBA official statistics website.
 
-**data/playerId/pivot_data** contains player offensive positions derived
+**data/playerId/pivot_data** contains seven offensive positions derived
 from the K-means++ algorithm.
 
 Offensive Position numbers:
