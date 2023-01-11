@@ -1,5 +1,5 @@
 
-This repository contains data used for research
+This repository contains data used in the study entitled "Estimating Positional Plus-Minus in the NBA", which was submitted to research
 paper competition in the 2023 MIT Sloan Sports Analytics Conference.
 
 **data/stint** contains NBA stint data from 2015-16 to 2021-22. 2019-20
